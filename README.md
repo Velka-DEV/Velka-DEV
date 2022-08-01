@@ -32,10 +32,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
-  &emsp; 
-  <a href="https://www.php.net/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-  </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -48,6 +44,10 @@
   <a href="https://nodejs.org/en/" target="_blank"> 
      <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?style=plastic&logo=node.js&logoColor=black">
    </a>
+  &emsp; 
+  <a href="https://www.php.net/" target="_blank"> 
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+  </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
@@ -74,8 +74,29 @@
    </a>
   &emsp;
   <a href="https://vuejs.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/VueJs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
+     <img alt="VueJS" src="https://img.shields.io/badge/VueJs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
    </a>
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank"> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+   </a>
+</p>
+
+ ### 👉 Frameworks
+ 
+ <p align="center"> 
+  &emsp; 
+  <a href="https://laravel.com/" target="_blank"> 
+   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://docs.microsoft.com/fr-fr/aspnet/core/blazor/?view=aspnetcore-6.0" target="_blank">
+    <img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white">
+  </a>
 </p>
 
  ### 👉 Software & Tools
