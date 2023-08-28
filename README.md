@@ -7,7 +7,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `junior` developer at CUCDB - Dijon
-- :technologist: I eat C#, I drink C#, I breathe C#
+- :technologist: Most experienced in `C#` but currently highly interested in the `Go` and `Rust` languages.
 - :student: I’m currently learning: `FullStack Development` and `Reverse Engineering`.
 - :thinking: I’m currently open for: `a work-study program in a company` in the developement / reverse engineering domain
 
